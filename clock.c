@@ -18,11 +18,6 @@
 
 
 */
-
-
-
-
-
 #include <clock.h>
 
 char color_code = 'r';
