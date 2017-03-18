@@ -1,5 +1,7 @@
 # term-clock
-An ASCII art Terminal Clock
+An ASCII art based Terminal Clock
+
+
 
 
 $ term-clock -h
@@ -18,3 +20,10 @@ color options:
                 -m :    magenta
                 -c :    cyan
                 -w :    white
+
+Installation:
+
+1.  $ git clone https://github.com/xxorr23/term-clock.git
+2.  $ cd term-clock/
+3.  $ make
+4.  $ sudo make install
