@@ -1,11 +1,16 @@
 # term-clock
-ASCII art Terminal Clock
+An ASCII art Terminal Clock
+
+
+$ term-clock -h
 
 usage: term-clock option
-                -C :    show clock at centre
-                -X :    custom x-ordinate
-                -Y :    custom y-ordinate
+
+		-C :    show clock at centre
+		-X :	custom x-ordinate
+		-Y :	custom y-ordinate
 color options:
+
                 -r :    red(default)
                 -g :    green
                 -y :    yellow
